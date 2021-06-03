@@ -1,0 +1,97 @@
+[19-May-2018 00:07:11 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[19-May-2018 00:08:40 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[19-May-2018 00:08:40 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[19-May-2018 00:32:43 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 18
+[19-May-2018 00:32:43 Europe/Istanbul] PHP Warning:  unlink(../../images//29664mybook.png): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 34
+[19-May-2018 00:36:39 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 18
+[19-May-2018 00:36:39 Europe/Istanbul] PHP Warning:  unlink(../../images//21314Untitled-1.png): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 34
+[19-May-2018 00:38:01 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 18
+[19-May-2018 00:38:01 Europe/Istanbul] PHP Warning:  unlink(../../images//25011Untitled-1 (1).png): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 34
+[19-May-2018 00:38:44 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 18
+[19-May-2018 00:38:44 Europe/Istanbul] PHP Warning:  unlink(../../images//29753Untitled-1 (2).png): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 34
+[19-May-2018 00:56:46 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[19-May-2018 00:57:19 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 138
+[19-May-2018 01:02:06 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 138
+[19-May-2018 01:03:31 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[19-May-2018 01:22:45 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[19-May-2018 01:47:06 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[19-May-2018 03:16:53 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[19-May-2018 03:16:53 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[19-May-2018 03:16:55 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[19-May-2018 03:16:55 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[19-May-2018 03:17:05 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[19-May-2018 03:17:05 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[20-May-2018 14:31:58 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-May-2018 16:49:41 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-May-2018 16:50:07 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[21-May-2018 15:35:08 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[22-May-2018 14:00:57 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[23-May-2018 10:53:54 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[24-May-2018 21:42:38 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[25-May-2018 00:43:43 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[25-May-2018 00:43:44 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[25-May-2018 00:46:14 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[25-May-2018 00:46:14 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[25-May-2018 00:46:56 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[25-May-2018 00:46:59 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[25-May-2018 00:50:50 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[25-May-2018 00:50:50 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[25-May-2018 00:50:57 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[25-May-2018 00:50:57 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[25-May-2018 00:51:09 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[25-May-2018 00:51:09 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[25-May-2018 00:52:00 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[25-May-2018 00:52:00 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[26-May-2018 13:05:55 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[26-May-2018 16:01:29 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[27-May-2018 14:07:00 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[28-May-2018 02:36:46 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[28-May-2018 22:42:48 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[28-May-2018 22:42:54 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[29-May-2018 08:57:18 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[29-May-2018 14:00:22 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[29-May-2018 14:00:27 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[30-May-2018 09:47:43 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[30-May-2018 09:59:42 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[30-May-2018 09:59:45 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[30-May-2018 09:59:53 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[30-May-2018 10:03:15 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[30-May-2018 22:42:57 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[31-May-2018 23:36:16 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[01-Jun-2018 00:59:08 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[01-Jun-2018 22:32:01 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[01-Jul-2018 20:22:16 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[01-Jul-2018 20:23:29 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 56
+[01-Jul-2018 20:23:29 Europe/Istanbul] PHP Warning:  unlink(../../images/): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 73
+[01-Jul-2018 20:24:28 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[01-Jul-2018 20:25:32 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-Jul-2018 14:11:13 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-Jul-2018 14:11:14 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[21-Jul-2018 15:22:22 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[23-Jul-2018 15:15:40 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[24-Jul-2018 15:42:28 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[25-Jul-2018 16:17:07 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[25-Jul-2018 16:18:42 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 18
+[25-Jul-2018 16:18:42 Europe/Istanbul] PHP Warning:  unlink(../../images//23303Untitled-1 (2).png): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 34
+[26-Jul-2018 00:27:19 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[08-Aug-2018 02:25:24 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[08-Aug-2018 02:26:03 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 18
+[08-Aug-2018 02:26:03 Europe/Istanbul] PHP Warning:  unlink(../../images//29856): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 34
+[12-Aug-2018 02:11:26 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[12-Aug-2018 02:11:50 Europe/Istanbul] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/designbynex/public_html/yonetim-panel/islemler.php on line 18
+[12-Aug-2018 02:11:50 Europe/Istanbul] PHP Warning:  unlink(../../images//25888c-logo-icon-18.png): No such file or directory in /home/designbynex/public_html/yonetim-panel/islemler.php on line 34
+[12-Aug-2018 02:29:13 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[12-Aug-2018 14:51:37 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[13-Aug-2018 12:57:34 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[14-Aug-2018 14:44:59 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[19-Aug-2018 01:02:50 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-Aug-2018 13:13:34 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[21-Aug-2018 01:09:14 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[22-Aug-2018 13:18:42 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[23-Aug-2018 16:13:58 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[25-Aug-2018 14:12:58 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-Sep-2018 19:03:12 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-Sep-2018 19:03:13 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-Sep-2018 19:03:22 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-Sep-2018 19:03:23 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
+[20-Sep-2018 19:11:55 Europe/Istanbul] PHP Notice:  Undefined index: durum in /home/designbynex/public_html/yonetim-panel/adminlogin.php on line 70
